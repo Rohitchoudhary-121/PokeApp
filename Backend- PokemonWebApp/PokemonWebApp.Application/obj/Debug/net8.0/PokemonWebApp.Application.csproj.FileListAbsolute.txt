@@ -1,0 +1,12 @@
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\bin\Debug\net8.0\PokemonWebApp.Application.deps.json
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\bin\Debug\net8.0\PokemonWebApp.Application.dll
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\bin\Debug\net8.0\PokemonWebApp.Application.pdb
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.csproj.AssemblyReference.cache
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.AssemblyInfoInputs.cache
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.AssemblyInfo.cs
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.csproj.CoreCompileInputs.cache
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.dll
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\refint\PokemonWebApp.Application.dll
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\PokemonWebApp.Application.pdb
+D:\InderJeet\Projects\KioskSolution\PokemonWebApp\PokemonWebApp.Application\obj\Debug\net8.0\ref\PokemonWebApp.Application.dll

@@ -1,0 +1,44 @@
+:root {
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --secondary: #f1f5f9;
+  --accent: #fbbf24;
+  --text-main: #1e293b;
+  --text-secondary: #64748b;
+  --error: #ef4444;
+  --card-bg: #fff;
+  --shadow: 0 2px 8px rgba(30,41,59,0.08);
+  --radius: 12px;
+  --transition: 0.2s cubic-bezier(.4,0,.2,1);
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: var(--secondary);
+  color: var(--text-main);
+  margin: 0;
+  min-height: 100vh;
+}
+
+input, button {
+  font-family: inherit;
+  font-size: 1rem;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+a:hover {
+  color: var(--accent);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: var(--secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: #e5e7eb;
+  border-radius: 8px;
+} 
